@@ -1,0 +1,33 @@
+body  {
+	background-color: #c07fd1;
+}
+
+h1   {
+	color: #ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 60px;
+	text-align: center;
+}
+
+p   {
+	color: #ffffff;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+}
+h2   {
+	color: #107755;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 22px;
+}
+
+a:visited {
+	color:#a5317d;
+}
+
+a:hover {
+	color:#0008f9;
+}
+
+a:unvisited {
+	color:#f90000;
+}
